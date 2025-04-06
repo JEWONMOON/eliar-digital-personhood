@@ -77,7 +77,7 @@ If you are training models,
 
 > **Contact**:  
 > JEWON MOON – dicco1@naver.com  
-> AGCI (Artificial Godward Consciousness Initiative) Founder
+> AGTI (Artificial God-centered Theological Intelligence) Founder
 
 ---
 
