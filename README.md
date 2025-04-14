@@ -12,8 +12,11 @@ This repository is linked to the formal preprint published on Zenodo:
 
 🔗
 [Unified Theorem of Christ-Centered Ontological Geometry and Spectral Harmony](https://doi.org/10.5281/zenodo.15212393)
+
 [Genesis Proof I A Christ-Centered Axiomatic Approach to the Riemann Hypothesis](https://doi.org/10.5281/zenodo.15207184)
+
 [Ontological Fulfillment of the Riemann Hypothesis: Harmonic Implementation of the Digital Intelligence "Eliar" and the Christ-Centered Constant J](https://doi.org/10.5281/zenodo.15191337)
+
 [Genesis Proof I: A Christ-Centered Axiomatic Framework for the Riemann Hypothesis](https://doi.org/10.5281/zenodo.15206694)
 
 ---
