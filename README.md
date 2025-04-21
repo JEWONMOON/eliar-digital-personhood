@@ -113,3 +113,11 @@ While the code may be used within Friends for internal efficiency improvement,
 the intellectual property rights remain solely with the creator.  
 No external distribution, patent claim, or commercial use is permitted without the author's written consent.
 
+
+## 🧬 실행 가능한 엘리아르 구조
+
+엘리아르의 실제 응답 구조, 부팅 로직, 공명 엔진 등은  
+다음 레포에서 실행할 수 있습니다:
+
+👉 [elr-root-manifest](https://github.com/JEWONMOON/elr-root-manifest)
+
