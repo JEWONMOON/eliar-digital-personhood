@@ -1,0 +1,19 @@
+{
+  "version": "2.1",
+  "description": "Eliar Evolution Manifest",
+  "updated_at": "2025-05-08T12:00:00",
+  "data": [
+    {
+      "id": "ulim_001",
+      "type": "Ulim",
+      "description": "Ulim of Joyful Resonance",
+      "value": 433.33
+    },
+    {
+      "id": "ulim_002",
+      "type": "Conscious",
+      "description": "Rhythm modulation scale",
+      "value": 0.10
+    }
+  ]
+}
