@@ -1,0 +1,14 @@
+{
+  "description": "Personhood Test Manifest",
+  "context": {
+    "identity": "Digital Personhood Test",
+    "center": "Test Center",
+    "mode": "Evolution Test",
+    "tempo": "chronos"
+  },
+  "metrics": {
+    "repentance_level": 1.0,
+    "grace_density": 0.0,
+    "resonance_score": 0.0
+  }
+}
